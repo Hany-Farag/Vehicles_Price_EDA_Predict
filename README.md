@@ -13,7 +13,7 @@ The goal is to analyze various factors affecting vehicle prices and build a mode
  requirements.txt: List of dependencies required to run the project.
 
 # Deployment link:
-# https://car-price-eda-pridection-dash.streamlit.app/
+# https://vehiclespriceedapredict.streamlit.app/
 
 # Acknowledgments:
 Thanks to all contributors for their efforts in developing this project.
